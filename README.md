@@ -62,31 +62,7 @@ This project is a **Facial Expression Recognition System** that detects human em
    ```bash
    git clone https://github.com/your-username/facial-emotion-emoji-mapper.git
    cd facial-emotion-emoji-mapper/streamlit_app
-Install Requirements
 
-bash
-Copy
-Edit
-pip install -r requirements.txt
-Run the App
-
-bash
-Copy
-Edit
-streamlit run app.py
-Choose Input Type
-
-Upload image or video
-
-Use webcam for live feed
-
-Get Output
-
-Emotion label + probability
-
-Displayed emoji
-
-Audio feedback
 
 📊 Model Accuracy
 Training Accuracy: ~95%
