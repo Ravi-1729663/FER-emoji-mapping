@@ -71,20 +71,3 @@ Validation Accuracy: ~92%
 
 Confusion matrix & detailed plots included in the app's EDA section.
 
-🌟 Future Enhancements
-Integrate with AR filters for fun applications.
-
-Deploy on mobile devices.
-
-Add emotion tracking over time in live video.
-
-🤝 Contributors
-Your Name – Lead Developer
-
-Afiya – Testing & Feedback
-
-OpenAI ChatGPT – Assistant & Architecture
-
-📜 License
-MIT License – free for personal and commercial use with attribution.
-
